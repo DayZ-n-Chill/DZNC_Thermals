@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{059C14114119B9E5}DZNC_Thermals/ThermalAssets/Scopes/tm.edds"
+ Author "desktop-345ihbj"
+ ChangeDate 1428548354
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "tm.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

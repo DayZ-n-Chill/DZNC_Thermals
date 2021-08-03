@@ -1,0 +1,5 @@
+//<'ThermalAssets.pbo' properties via Mikero's dos tools, dll version 8.12>
+product=dayz ugc;
+prefix=ThermalAssets;
+//PboType=Arma Addon;
+//</properties>
