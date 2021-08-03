@@ -1,0 +1,18 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: KeyCardZ_Assets\data\glass-pass2.rvmat
+//Produced from mikero's Dos Tools Dll version 7.95
+//https://mikero.bytex.digital/Downloads
+//'now' is Mon Jan 11 12:47:15 2021 : 'file' last modified on Fri Oct 16 06:16:18 2020
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+ambient[] = {1.0,1.0,1.0,1.0};
+diffuse[] = {1.0,1.0,1.0,1.0};
+forcedDiffuse[] = {0.0,0.0,0.0,0.0};
+emmisive[] = {0.0,0.0,0.0,1.0};
+specular[] = {0.0,0.0,0.0,0.0};
+specularPower = 0.0;
+renderFlags[] = {"NoColorWrite"};
+PixelShaderID = "AlphaShadow";
+VertexShaderID = "Basic";
